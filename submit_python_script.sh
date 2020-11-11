@@ -1,5 +1,5 @@
 # Alex is editing from the browser
-
+# Alex editing from the cluster
 
 #!/bin/bash
 # Script to call the job scheduler on the cluster
